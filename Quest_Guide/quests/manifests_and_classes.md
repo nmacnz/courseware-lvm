@@ -37,7 +37,7 @@ At its simplest, a **manifest** is nothing more than some puppet code
 saved to a file with the `.pp` extension. It's the same stuff you saw using
 the `puppet resource` tool and applied with the `puppet apply` tool. Easy
 enough, but it's where you put a manifest and what you put in it that really
-matter.
+matters.
 
 Much of this organizational structure, both in terms of a manifest's content and
 its location on the puppet master's filesystem, is related to Puppet *classes*. 
